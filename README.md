@@ -1,7 +1,6 @@
 [![Header](https://github.com/codekayn2/codekayn2/blob/master/assets/header.jpg)](https://www.instagram.com/codekayn.io/)
 
-About me
-
+## Hello, my name is Vadim, I'm 17 years old. I'm a beginner Front-End developer
 
 
 Latest YouTube Videos
