@@ -16,7 +16,7 @@ Languages and Tools
 ![SCSS](https://img.shields.io/badge/-SCSS-090909??style=for-the-badge&logo=SCSS=47C5FB)
 ![CSS](https://img.shields.io/badge/-CSS-090909??style=for-the-badge&logo=CSS=47C5FB)
 ![Redux](https://img.shields.io/badge/-Redux-090909??style=for-the-badge&logo=Redux=47C5FB)
-![Redux-Toolkit](https://img.shields.io/badge/-Redux-Toolkit-090909??style=for-the-badge&logo=Redux-Toolkit=47C5FB)
+![Redux-Toolkit](https://img.shields.io/badge/-ReduxToolkit-090909??style=for-the-badge&logo=Redux-Toolkit=47C5FB)
 
 
 
